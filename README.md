@@ -11,4 +11,4 @@
 1. Git & GitHub
 2. [Quarto](https://quarto.org/) & the [quarto-reproducible-thesis](github.com/habemus-python/quarto-reproducible-thesis) template
 3. Continuous integration using [Quarto actions](https://github.com/quarto-dev/quarto-actions/)
-4. [Pylint](https://www.pylint.org/), [NBQA](https://nbqa.readthedocs.io/), [pre-commit](https://pre-commit.com/) and the various ways of using `pip install`
+4. [Pylint](https://www.pylint.org/), [NBQA](https://nbqa.readthedocs.io/) & [pre-commit](https://pre-commit.com/)
