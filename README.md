@@ -15,3 +15,4 @@
 5. [Quarto/Revealjs](https://quarto.org/docs/presentations/revealjs/) & the [quarto-agh-slides](https://github.com/habemus-python/quarto-agh-slides) template
 6. Project pitches
 7. Profiling code with [pytest-profiling](https://pypi.org/p/pytest-profiling/)
+8. Debugging code with [pdb](https://docs.python.org/3/library/pdb.html)
